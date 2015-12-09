@@ -1,0 +1,35 @@
+commit 5b8c27015818ea60f3c75d985365c81d5f67f2ed
+Author: efTobark <efuentes.isc@gmail.com>
+Date:   Tue Dec 8 18:22:12 2015 -0600
+
+    Mi portafolio agregado
+
+commit 69c9eb59c9fd357c17bd9af52ba76f0e91945fdd
+Author: efTobark <efuentes.isc@gmail.com>
+Date:   Tue Dec 8 18:19:58 2015 -0600
+
+    Descripcion agregada
+
+commit 3a0fa8ca5efa8e7495bb80a481d13b78d8a06778
+Author: efTobark <efuentes.isc@gmail.com>
+Date:   Tue Dec 8 18:17:12 2015 -0600
+
+    Redes sociales agregadas
+
+commit 0ae093c40f2676bedd88fa6e4fe55bf986f05a7a
+Author: efTobark <efuentes.isc@gmail.com>
+Date:   Tue Dec 8 18:10:59 2015 -0600
+
+    Estrategia digital actualizada
+
+commit 4caf906080ae066546c0cad699e05765b4d2b43c
+Author: efTobark <efuentes.isc@gmail.com>
+Date:   Tue Dec 8 18:01:59 2015 -0600
+
+    Foto y nombre agregado
+
+commit 1052b52d826e6647b8108b6ef4061b28ecc52922
+Author: efTobark <efuentes.isc@gmail.com>
+Date:   Tue Dec 8 17:50:58 2015 -0600
+
+    Commit inicial del repositorio
